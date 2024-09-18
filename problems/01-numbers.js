@@ -3,7 +3,7 @@ Let's practice playing with number expressions and arithmetic operators in
 JavaScript!
 */
 
-let num1 = 2;
+let num1 = 2;.
 let num2 = 5;
 let num3 = 7;
 let num4 = 10;
