@@ -1,6 +1,6 @@
 /*
 Let's practice playing with number expressions and arithmetic operators in
-JavaScript!
+JavaScript!.
 */
 
 let num1 = 2;.
